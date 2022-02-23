@@ -18,7 +18,7 @@ public class Calculator {
     public Calculator(float valor1, float valor2, String operation) {
         this.valor1 = valor1;
         this.valor2 = valor2;
-        this.operacion = operacion;
+        this.operation = operation;
     }
 
     public float getValor1() {
@@ -37,8 +37,8 @@ public class Calculator {
         this.valor2 = valor2;
     }
     
-    public String getOperacion() {
-        return operacion;
+    public String getoperation() {
+        return operation;
     }
     
     public void setOperacion(String operation) {
