@@ -13,7 +13,7 @@ public class Calculator {
     
     private float valor1;
     private float valor2;
-    private String operacion;
+    private String operation;
 
     public Calculator(float valor1, float valor2, String operation) {
         this.valor1 = valor1;
