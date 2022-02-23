@@ -41,8 +41,8 @@ public class Calculator {
         return operacion;
     }
     
-    public void setOperacion(String operacion) {
-        this.operacion = operacion;
+    public void setOperacion(String operation) {
+        this.operation = operation;
     }
     
 }
